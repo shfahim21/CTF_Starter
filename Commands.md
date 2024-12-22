@@ -134,25 +134,12 @@ nc -z -v example.com 20-100
 
 ## Web
 Common web tools and commands:
-- Directory enumeration
-- SQL injection
-- XSS testing
-- Cookie manipulation
-- Request manipulation
+
 
 ## Reverse Engineering
-Tools for binary analysis:
-- GDB
-- Radare2
-- Ghidra
-- IDA Pro
-- Binary Ninja
+
 
 ## 💡 Tips
-- Always check file permissions
-- Make backups before modifications
-- Use verbose output for debugging
-- Combine commands using pipes for efficiency
 
 ## 🔗 Useful Resources
 - [CyberChef](https://gchq.github.io/CyberChef/)
